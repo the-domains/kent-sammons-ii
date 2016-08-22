@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.5089605
 color:
   saturation: 0.9522374
   brandStrength: 0.8333333
@@ -21,6 +22,5 @@ color:
     - '#FFB864'
     - '#95B1BF'
   rhythmicContrast: 0.9328369
-typography_spectrum: 0.5035842
 layout_spectrum: 0.9946237
 name: Kent Sammons II
