@@ -1,0 +1,14 @@
+layout_spectrum: 0.9946237
+color:
+  saturation: 0.9522374
+  lightness: 0.8635216
+  brandStrength: 0.6810036
+  brandColors:
+    - '#FFFFFF'
+    - '#150001'
+    - '#47321F'
+    - '#FFB864'
+    - '#95B1BF'
+  rhythmicContrast: 0.9328369
+typography_spectrum: 0.8254783
+name: Kent Sammons II
