@@ -1,8 +1,19 @@
-layout_spectrum: 0.9946237
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9522374
+  brandStrength: 0.8333333
   lightness: 0.8635216
-  brandStrength: 0.6810036
   brandColors:
     - '#FFFFFF'
     - '#150001'
@@ -11,4 +22,5 @@ color:
     - '#95B1BF'
   rhythmicContrast: 0.9328369
 typography_spectrum: 0.5035842
+layout_spectrum: 0.9946237
 name: Kent Sammons II
