@@ -1,14 +1,3 @@
-color:
-  saturation: 0.8530466
-  brandStrength: 0.8333333
-  rhythmicContrast: 0.9328369
-  brandColors:
-    - '#FFFFFF'
-    - '#150001'
-    - '#47321F'
-    - '#FFB864'
-    - '#95B1BF'
-  lightness: 0.6917562
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.983871
 typography_spectrum: 0.5089605
+color:
+  saturation: 0.8530466
+  brandStrength: 0.8333333
+  rhythmicContrast: 0.9328369
+  brandColors:
+    - '#FFFFFF'
+    - '#150001'
+    - '#47321F'
+    - '#FFB864'
+    - '#95B1BF'
+  lightness: 0.6917562
+layout_spectrum: 0.7114695
 name: Kent Sammons II
